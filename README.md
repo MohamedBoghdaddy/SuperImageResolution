@@ -1,7 +1,3 @@
-Here’s an updated and enhanced version of your **SuperImageResolution** README with added icons and emojis for better readability and aesthetics:
-
----
-
 # 🖼️ SuperImageResolution
 
 ## 🚀 Overview
